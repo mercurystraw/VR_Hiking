@@ -7,7 +7,8 @@ This project is developed using **Unity 2022.3.55f1c1** and **PICO 4** device to
 ## Usage
 
 - `VR_Hiking.unitypackage` contains the packaged scene along with its dependent assets and scripts. To use it, in a new Unity project, navigate to: Assets → Import Package → Custom Package, select this `.unitypackage` file, check all the contents, and import. Afterward, you can view all the contents of this project in the new Unity project.
-You can just choose 'build and run' in Unity to compile the selected scene to APK file. After that, upload the APK to a PICO4 device for installation and execution.
+
+  You can just choose 'build and run' in Unity to compile the selected scene with correct settings to APK file. After that, upload the APK to a PICO4 device for installation and execution.
 
 ## More info
 
